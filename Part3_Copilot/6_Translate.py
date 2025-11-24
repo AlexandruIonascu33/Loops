@@ -30,3 +30,10 @@
 #   - stop only when the user types "exit"
 
 # Write your code here:
+translations = {
+    "cat": "pisică",
+    "dog": "câine",
+    "red": "roșu",
+    "sun": "soare"
+}
+

@@ -14,7 +14,7 @@
 #
 # Hints:
 #   - Ask for the count first (how many numbers).
-#   - Use a for loop that runs exactly that many times.
+#   - Use a for loop that runs exactly that many times, you can use range(count) for this.
 #   - Keep track of the current maximum in a variable.
 #   - Update the maximum whenever you read a number that is larger.
 
